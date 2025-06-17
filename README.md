@@ -4,7 +4,7 @@ This is a modern, visually appealing, and fully responsive calculator web applic
 
 ---
 
-## 📷 Project Screenshot
+## 📷 Project Screenshot:
 
 
 ![Screenshot 2025-06-15 192716](https://github.com/user-attachments/assets/3484c386-52bf-401c-ae04-6c3688d94b43)
