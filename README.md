@@ -14,9 +14,9 @@ This is a modern, visually appealing, and fully responsive calculator web applic
 ## 🚀 Features
 
 - **Responsive Design:**  
-  - Mobile (320px - 767px): Single-column layout with hamburger menu and breadcrumb navigation  
-  - Desktop (768px - 1439px): Three-column layout optimized for readability and usability  
-  - Large Desktop (1440px+): Wide three-column layout with max-width constraints for optimal content display
+  - Mobile (320px - 767px): Single-column layout with hamburger menu and breadcrumb navigation.
+  - Desktop (768px - 1439px): Three-column layout optimized for readability and usability. 
+  - Large Desktop (1440px+): Wide three-column layout with max-width constraints for optimal content display.
 
 - **User Interface:**  
   - Dark theme with high contrast for readability and sleek appearance  
